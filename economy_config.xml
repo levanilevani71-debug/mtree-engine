@@ -1,0 +1,35 @@
+<economy>
+    <!-- Global settings -->
+    <population count="100" initial_money="2000" days_per_month="30" />
+    <tax rate="0.20" />  <!-- 20% tax for everyone -->
+
+    <businesses>
+
+        <!-- Bakery: 30$/month per person (1 bread/day) -->
+        <business id="bakery" type="local" employees="1">
+            <spending per_person_per_month="30" />
+            <!-- tax comes from global; profit is auto: 1 - (tax + salary + cost) -->
+            <rates salary="0.30" cost="0.40" />
+        </business>
+
+        <!-- Market: 450$/month per person -->
+        <business id="market" type="local" employees="3">
+            <spending per_person_per_month="450" />
+            <rates salary="0.10" cost="0.40" />
+        </business>
+
+        <!-- Shop: 300$/month per person -->
+        <business id="shop" type="local" employees="3">
+            <spending per_person_per_month="300" />
+            <!-- You asked: cost down to 40% -->
+            <rates salary="0.10" cost="0.40" />
+        </business>
+
+        <!-- Factory: earns from outside the city -->
+        <business id="factory" type="external" employees="38">
+            <external_revenue per_month="200000" />
+            <rates salary="0.50" cost="0.00" />
+        </business>
+
+    </businesses>
+</economy>

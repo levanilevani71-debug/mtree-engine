@@ -1,0 +1,112 @@
+<population_census>
+    <person id="1" gender="M" age_group="adult" role="father" family_id="1" />
+    <person id="2" gender="M" age_group="adult" role="father" family_id="2" />
+    <person id="3" gender="M" age_group="adult" role="father" family_id="3" />
+    <person id="4" gender="M" age_group="adult" role="father" family_id="4" />
+    <person id="5" gender="M" age_group="adult" role="father" family_id="5" />
+    <person id="6" gender="M" age_group="adult" role="father" family_id="6" />
+    <person id="7" gender="M" age_group="adult" role="father" family_id="7" />
+    <person id="8" gender="M" age_group="adult" role="father" family_id="8" />
+    <person id="9" gender="M" age_group="adult" role="father" family_id="9" />
+    <person id="10" gender="M" age_group="adult" role="father" family_id="10" />
+    <person id="11" gender="M" age_group="adult" role="father" family_id="11" />
+    <person id="12" gender="M" age_group="adult" role="father" family_id="12" />
+    <person id="13" gender="M" age_group="adult" role="father" family_id="13" />
+    <person id="14" gender="M" age_group="adult" role="father" family_id="14" />
+    <person id="15" gender="M" age_group="adult" role="father" family_id="15" />
+    <person id="16" gender="M" age_group="adult" role="father" family_id="16" />
+    <person id="17" gender="M" age_group="adult" role="father" family_id="17" />
+    <person id="18" gender="M" age_group="adult" role="father" family_id="18" />
+    <person id="19" gender="M" age_group="adult" role="father" family_id="19" />
+    <person id="20" gender="M" age_group="adult" role="father" family_id="20" />
+    <person id="21" gender="M" age_group="adult" role="father" family_id="21" />
+    <person id="22" gender="M" age_group="adult" role="father" family_id="22" />
+    <person id="23" gender="M" age_group="adult" role="father" family_id="23" />
+    <person id="24" gender="M" age_group="adult" role="father" family_id="24" />
+    <person id="25" gender="M" age_group="adult" role="father" family_id="25" />
+
+    <!-- 5 single adult men -->
+    <person id="26" gender="M" age_group="adult" role="single" />
+    <person id="27" gender="M" age_group="adult" role="single" />
+    <person id="28" gender="M" age_group="adult" role="single" />
+    <person id="29" gender="M" age_group="adult" role="single" />
+    <person id="30" gender="M" age_group="adult" role="single" />
+
+    <!-- 25 adult women as mothers in families -->
+    <person id="31" gender="F" age_group="adult" role="mother" family_id="1" />
+    <person id="32" gender="F" age_group="adult" role="mother" family_id="2" />
+    <person id="33" gender="F" age_group="adult" role="mother" family_id="3" />
+    <person id="34" gender="F" age_group="adult" role="mother" family_id="4" />
+    <person id="35" gender="F" age_group="adult" role="mother" family_id="5" />
+    <person id="36" gender="F" age_group="adult" role="mother" family_id="6" />
+    <person id="37" gender="F" age_group="adult" role="mother" family_id="7" />
+    <person id="38" gender="F" age_group="adult" role="mother" family_id="8" />
+    <person id="39" gender="F" age_group="adult" role="mother" family_id="9" />
+    <person id="40" gender="F" age_group="adult" role="mother" family_id="10" />
+    <person id="41" gender="F" age_group="adult" role="mother" family_id="11" />
+    <person id="42" gender="F" age_group="adult" role="mother" family_id="12" />
+    <person id="43" gender="F" age_group="adult" role="mother" family_id="13" />
+    <person id="44" gender="F" age_group="adult" role="mother" family_id="14" />
+    <person id="45" gender="F" age_group="adult" role="mother" family_id="15" />
+    <person id="46" gender="F" age_group="adult" role="mother" family_id="16" />
+    <person id="47" gender="F" age_group="adult" role="mother" family_id="17" />
+    <person id="48" gender="F" age_group="adult" role="mother" family_id="18" />
+    <person id="49" gender="F" age_group="adult" role="mother" family_id="19" />
+    <person id="50" gender="F" age_group="adult" role="mother" family_id="20" />
+    <person id="51" gender="F" age_group="adult" role="mother" family_id="21" />
+    <person id="52" gender="F" age_group="adult" role="mother" family_id="22" />
+    <person id="53" gender="F" age_group="adult" role="mother" family_id="23" />
+    <person id="54" gender="F" age_group="adult" role="mother" family_id="24" />
+    <person id="55" gender="F" age_group="adult" role="mother" family_id="25" />
+
+    <!-- 5 single adult women -->
+    <person id="56" gender="F" age_group="adult" role="single" />
+    <person id="57" gender="F" age_group="adult" role="single" />
+    <person id="58" gender="F" age_group="adult" role="single" />
+    <person id="59" gender="F" age_group="adult" role="single" />
+    <person id="60" gender="F" age_group="adult" role="single" />
+
+    <!-- 20 boys (children) -->
+    <person id="61" gender="M" age_group="child" role="child" family_id="5" />
+    <person id="62" gender="M" age_group="child" role="child" family_id="6" />
+    <person id="63" gender="M" age_group="child" role="child" family_id="7" />
+    <person id="64" gender="M" age_group="child" role="child" family_id="8" />
+    <person id="65" gender="M" age_group="child" role="child" family_id="9" />
+    <person id="66" gender="M" age_group="child" role="child" family_id="10" />
+    <person id="67" gender="M" age_group="child" role="child" family_id="11" />
+    <person id="68" gender="M" age_group="child" role="child" family_id="12" />
+    <person id="69" gender="M" age_group="child" role="child" family_id="13" />
+    <person id="70" gender="M" age_group="child" role="child" family_id="14" />
+    <person id="71" gender="M" age_group="child" role="child" family_id="15" />
+    <person id="72" gender="M" age_group="child" role="child" family_id="16" />
+    <person id="73" gender="M" age_group="child" role="child" family_id="17" />
+    <person id="74" gender="M" age_group="child" role="child" family_id="18" />
+    <person id="75" gender="M" age_group="child" role="child" family_id="19" />
+    <person id="76" gender="M" age_group="child" role="child" family_id="20" />
+    <person id="77" gender="M" age_group="child" role="child" family_id="21" />
+    <person id="78" gender="M" age_group="child" role="child" family_id="21" />
+    <person id="79" gender="M" age_group="child" role="child" family_id="22" />
+    <person id="80" gender="M" age_group="child" role="child" family_id="22" />
+
+    <!-- 20 girls (children) -->
+    <person id="81" gender="F" age_group="child" role="child" family_id="13" />
+    <person id="82" gender="F" age_group="child" role="child" family_id="14" />
+    <person id="83" gender="F" age_group="child" role="child" family_id="15" />
+    <person id="84" gender="F" age_group="child" role="child" family_id="16" />
+    <person id="85" gender="F" age_group="child" role="child" family_id="17" />
+    <person id="86" gender="F" age_group="child" role="child" family_id="18" />
+    <person id="87" gender="F" age_group="child" role="child" family_id="21" />
+    <person id="88" gender="F" age_group="child" role="child" family_id="21" />
+    <person id="89" gender="F" age_group="child" role="child" family_id="22" />
+    <person id="90" gender="F" age_group="child" role="child" family_id="22" />
+    <person id="91" gender="F" age_group="child" role="child" family_id="22" />
+    <person id="92" gender="F" age_group="child" role="child" family_id="23" />
+    <person id="93" gender="F" age_group="child" role="child" family_id="23" />
+    <person id="94" gender="F" age_group="child" role="child" family_id="23" />
+    <person id="95" gender="F" age_group="child" role="child" family_id="24" />
+    <person id="96" gender="F" age_group="child" role="child" family_id="24" />
+    <person id="97" gender="F" age_group="child" role="child" family_id="24" />
+    <person id="98" gender="F" age_group="child" role="child" family_id="25" />
+    <person id="99" gender="F" age_group="child" role="child" family_id="25" />
+    <person id="100" gender="F" age_group="child" role="child" family_id="25" />
+</population_census>
